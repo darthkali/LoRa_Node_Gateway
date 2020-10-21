@@ -7,7 +7,7 @@
 
 <img src="https://github.com/darthkali/LoRa_Node_Gateway/blob/main/Assets/Images/raspberryPi_4.jpg" alt="alt text" width="200" >
 
-> Seeed Studio Raspberry Pi LoRa/GPS HAT (868MHz)
+> Dragino LoRa/GPS HAT
 
 <img src="https://github.com/darthkali/LoRa_Node_Gateway/blob/main/Assets/Images/LoRaHAT_RaspberryPi.jpg" alt="alt text" width="200" >
 
