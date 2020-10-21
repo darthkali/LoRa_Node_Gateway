@@ -105,12 +105,12 @@ nano main.cpp
 | router.eu.thethings.network         | EU 433 and EU 863-870                                                   | 52.169.76.203  |
 | router.us.thethings.network         | 	US 902-928                                                            | 13.66.213.36   |
 | router.cn.thethings.network         |  China 470-510 and 779-787                                              | 52.187.168.248 |
-| router.as.thethings.network         | Southeast Asia 923 MHz                                                  |                |
-| router.as1.thethings.network        | Southeast Asia 920-923 MHz                                              |                |
-| router.as2.thethings.network        |Southeast Asia 923-925 MHz                                               |                |
-| router.jp.thethings.network         | Korea 920-923 MHz                                                       |                |
-| router.cn.thethings.network         |  Japan 923-925 MHz (with EIRP cap according to Japanese regulations)    |                |
-| au915.thethings.meshed.com.au       |Australia 915-928 MHz                                                    |                |
+| router.as.thethings.network         | Southeast Asia 923 MHz                                                  | 52.163.90.53   |
+| router.as1.thethings.network        | Southeast Asia 920-923 MHz                                              | 52.187.76.166  |
+| router.as2.thethings.network        |Southeast Asia 923-925 MHz                                               | 52.187.78.172  |
+| router.jp.thethings.network         | Korea 920-923 MHz                                                       | 104.215.150.17 |
+| router.cn.thethings.network         |  Japan 923-925 MHz (with EIRP cap according to Japanese regulations)    | 52.187.168.248 |
+| au915.thethings.meshed.com.au       |Australia 915-928 MHz                                                    | 52.62.83.250   |
 | as923.thethings.meshed.com.au       | Australia (Southeast Asia 923MHz frequency plan)                        |                |
 | ttn.opennetworkinfrastructure.org   |  Switzerland (EU 433 and EU 863-870)                                    |                |
 
