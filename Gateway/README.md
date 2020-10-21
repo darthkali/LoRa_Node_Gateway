@@ -78,17 +78,43 @@ git clone https://github.com/tftelkamp/single_chan_pkt_fwd
 sudo apt-get install wiringpi
 ```
 
-4) Configure the single channel gateway code:
+
+## Config
+1) go to the single channel gateway code:
 
 ```bash
 cd ~/single_chan_pkt_fwd
 ```
 
-5) open main.cpp to configurate the LoRa Gateway
+2) open main.cpp to configurate the LoRa Gateway
 ```bash
 nano main.cpp
 ```
-## Usage
+
+3) Change some stuff
+- Find the line:
+```bash
+#define SERVER1 "54.72.145.119" // The Things Network: croft.thethings.girovito.nl
+```
+
+- Replace the IP with your chosen Server-IP:
+> the following list is from the 21.10.2020 so maybe this is changed in the meantime. if you Gateway dosn´t work, please check the following site and search for the correct IP: https://www.thethingsnetwork.org/docs/gateways/packet-forwarder/semtech-udp.html
+
+| Region                      | Router address        | IP            |
+|-----------------------------|-----------------------|---------------|
+| router.eu.thethings.network | EU 433 and EU 863-870 | 52.169.76.203 |
+| router.us.thethings.network |                       |               |
+| router.cn.thethings.network |                       |               |
+| router.as.thethings.network |                       |               |
+| router.as1.thethings.network |                       |               |
+| router.as2.thethings.network |                       |               |
+| router.jp.thethings.network |                       |               |
+| router.cn.thethings.network |                       |               |
+| au915.thethings.meshed.com.au |                       |               |
+| as923.thethings.meshed.com.au  |                       |               |
+| ttn.opennetworkinfrastructure.org  |                       |               |
+
+
 
 
 ## Example
