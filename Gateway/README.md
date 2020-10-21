@@ -98,7 +98,7 @@ nano main.cpp
 ```
 
 - Replace the IP with your chosen Server-IP:
-> the following list is from the 21.10.2020 so maybe this is changed in the meantime. if you Gateway dosn´t work, please check the following site and search for the correct IP: https://www.thethingsnetwork.org/docs/gateways/packet-forwarder/semtech-udp.html
+> The following list is from the 21.10.2020, so maybe the Server was changed in the meantime. Ff your Gateway dosn´t work, please check the following site and search for the correct IP: https://www.thethingsnetwork.org/docs/gateways/packet-forwarder/semtech-udp.html. You need to convert the Region in to a digital IP-Adress [You can do this on a site like this: https://www.ipvoid.com/find-website-ip/]
 
 | Region                              | Router address                                                          | Server-IP      |
 |-------------------------------------|-------------------------------------------------------------------------|----------------|
