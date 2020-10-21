@@ -11,8 +11,7 @@ Gateway:
 <img src="https://images-na.ssl-images-amazon.com/images/I/71IOISwSYZL._AC_SL1400_.jpg" alt="alt text" width="200" >
 - 16 GB SD-Card
 - Seeed Studio Raspberry Pi LoRa/GPS HAT (868MHz)
-<img src="https://asset.conrad.com/media10/isa/160267/c1/-/de/001997952PI03/seeed-studio-raspberry-pi-lora-gps-hat-lora-gps-shield-passend-fuer-raspberry-pi.jpg?
-x=1000&y=1000&format=jpg&ex=1000&ey=1000&align=center" alt="alt text" width="200" >
+<img src="https://asset.conrad.com/media10/isa/160267/c1/-/de/001997952PI03/seeed-studio-raspberry-pi-lora-gps-hat-lora-gps-shield-passend-fuer-raspberry-pi.jpg" alt="alt text" width="200" >
 
 Node:
 - Arduino UNO
