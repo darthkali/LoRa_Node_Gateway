@@ -8,13 +8,15 @@ Instructions to Build a Single Channel LoRa Gateway
 
 > Raspberry Pi 4 Modell B
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/71IOISwSYZL._AC_SL1400_.jpg" alt="alt text" width="200" >
+<img src="https://github.com/darthkali/LoRa_Node_Gateway/blob/main/Assets/Images/raspberryPi_4.jpg" alt="alt text" width="200" >
 
 > Seeed Studio Raspberry Pi LoRa/GPS HAT (868MHz)
 
-<img src="https://asset.conrad.com/media10/isa/160267/c1/-/de/001997952PI03/seeed-studio-raspberry-pi-lora-gps-hat-lora-gps-shield-passend-fuer-raspberry-pi.jpg" alt="alt text" width="200" >
+<img src="https://github.com/darthkali/LoRa_Node_Gateway/blob/main/Assets/Images/LoRaHAT_RaspberryPi.jpg" alt="alt text" width="200" >
 
 > 16 GB SD-Card
+
+<img src="https://github.com/darthkali/LoRa_Node_Gateway/blob/main/Assets/Images/SD-Card-16.jpg" alt="alt text" width="100" >
 
 
 
