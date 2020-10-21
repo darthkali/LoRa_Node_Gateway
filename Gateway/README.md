@@ -123,7 +123,7 @@ uint32_t freq = 868100000; // in Mhz! (868.1)
 You can find a List on the Following Site:
 https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html
 
-Remind: The Frequency on this site is shown in MHz and in the code you need to place it in Hz. So multiply the Frequency from the site with 1000000
+> Remind: The Frequency on this site is shown in MHz and in the code you need to place it in Hz. So multiply the Frequency from the site with 1000000
 
 
 ## Example
