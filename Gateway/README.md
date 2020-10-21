@@ -162,21 +162,18 @@ sudo ./single_chan_pkt_fwd
 
 ## Setup the Gateway at TTN (The Things Network)
 1) Login to your TTN-Profile
-> if you dosnt have a Profile right now, you need create an account:https://account.thethingsnetwork.org/register
+> If you dosnt have a Profile right now, you need create an account: https://account.thethingsnetwork.org/register
 
-2) go to the Console:
+2) Go to the Console:
 https://console.thethingsnetwork.org/
 
-3) select Gateways
+3) Select Gateways
 
-4) select *register gateway*
+4) Select *register gateway*
 5) Insert yout Gateway ID (from Clipboard) in the *Gateway ID* Field
-6) choose: *I'm using the legacy packet forwarder*
-7) choose your Frequency Plan
-> here you need to choose the same Frequency Area which you have put in to the Code
-8) set a location from your Device
-> in the code you have also an area *Set Location* Here you can type the same latutude and longitude as shown in the top right in this map.
+6) Choose: *I'm using the legacy packet forwarder*
+7) Choose your Frequency Plan
+> Here you need to choose the same Frequency Area which you have put in to the Code
+8) Set a location from your Device
+> In the code you have also an area *Set Location* Here you can type the same latutude and longitude as shown in the top right in this map.
 
-
-
-## Example
