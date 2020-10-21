@@ -21,7 +21,7 @@ sudo apt install rpi-imager
 Download it from this Page:
 https://www.raspberrypi.org/downloads/
 
-or usee Chocolatey [Whats this?](https://chocolatey.org/why-chocolatey)
+or use Chocolatey [[Whats this?](https://chocolatey.org/why-chocolatey)]
 ```bash
 
 choco install rpi-imager
