@@ -8,13 +8,14 @@ I have an Arduino with a LoRa HAD (Dragino) for the Node and a RaspberryPi with 
 Harware Specs:
 Gateway:
 - Raspberry Pi 4 Modell B
-<img src="https://images-na.ssl-images-amazon.com/images/I/71IOISwSYZL._AC_SL1400_.jpg" alt="alt text" width="100" >
+<img src="https://images-na.ssl-images-amazon.com/images/I/71IOISwSYZL._AC_SL1400_.jpg" alt="alt text" width="200" >
 - 16 GB SD-Card
 - Seeed Studio Raspberry Pi LoRa/GPS HAT (868MHz)
-![image](https://asset.conrad.com/media10/isa/160267/c1/-/de/001997952PI03/seeed-studio-raspberry-pi-lora-gps-hat-lora-gps-shield-passend-fuer-raspberry-pi.jpg?x=1000&y=1000&format=jpg&ex=1000&ey=1000&align=center)
+<img src="https://asset.conrad.com/media10/isa/160267/c1/-/de/001997952PI03/seeed-studio-raspberry-pi-lora-gps-hat-lora-gps-shield-passend-fuer-raspberry-pi.jpg?
+x=1000&y=1000&format=jpg&ex=1000&ey=1000&align=center" alt="alt text" width="200" >
 
 Node:
 - Arduino UNO
-![image](https://eckstein-shop.de/media/image/product/15681/lg/qita-atmega328-board-kompatible-with-arduino-uno-r3-ch340g-usb-chip.jpg)
+<img src="https://eckstein-shop.de/media/image/product/15681/lg/qita-atmega328-board-kompatible-with-arduino-uno-r3-ch340g-usb-chip.jpg" alt="alt text" width="200" >
 - LORA SHIELD (Dragino) v1.4 - 868MHZ
-![image](https://wiki.dragino.com/images/e/e4/Lora_Shield_v1.4.jpg)
+<img src="https://wiki.dragino.com/images/e/e4/Lora_Shield_v1.4.jpg" alt="alt text" width="200" >
