@@ -12,9 +12,19 @@ Instructions to Build a Single Channel LoRa Gateway
 
 https://www.raspberrypi.org/documentation/installation/installing-images/
 
-> sudo apt install rpi-imager
+> Linux
 ```bash
 sudo apt install rpi-imager
+```
+
+> Windows
+Download it from this Page:
+https://www.raspberrypi.org/downloads/
+
+or usee Chocolatey [Whats this?](https://chocolatey.org/why-chocolatey)
+```bash
+
+choco install rpi-imager
 ```
 
 ## Usage
