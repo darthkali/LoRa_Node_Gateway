@@ -8,3 +8,11 @@ I have an Arduino with a LoRa HAD (Dragino) for the Node and a RaspberryPi with 
 ## Hardware
 
 > https://github.com/darthkali/LoRa_Node_Gateway/blob/main/Hardware.md
+
+## Node
+
+> https://github.com/darthkali/LoRa_Node_Gateway/tree/main/Node
+
+## Gateway
+
+> https://github.com/darthkali/LoRa_Node_Gateway/tree/main/Gateway
