@@ -114,7 +114,16 @@ nano main.cpp
 | as923.thethings.meshed.com.au       | Australia (Southeast Asia 923MHz frequency plan)                        | 52.65.94.162   |
 | ttn.opennetworkinfrastructure.org   | Switzerland (EU 433 and EU 863-870)                                     | 86.119.29.227  |
 
+- Find the line:
+```bash
+uint32_t freq = 868100000; // in Mhz! (868.1) 
+```
+- Replace the Frequency with the Frequency from your LoRa Device:
+> The Frequency depents in which country you life (or the Gateway is working)
+You can find a List on the Following Site:
+https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html
 
+Remind: The Frequency on this site is shown in MHz and in the code you need to place it in Hz. So multiply the Frequency from the site with 1000000
 
 
 ## Example
