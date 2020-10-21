@@ -21,8 +21,8 @@ Instructions to Build a Single Channel LoRa Gateway
 
 ### Software
 
-Raspberry Pi Operation System [link and instruction below]
-Single Channel LoRaWAN Gateway [link and instruction below] [deprecated]
+- Raspberry Pi Operation System [link and instruction below]
+- Single Channel LoRaWAN Gateway [link and instruction below] [deprecated]
 
 
 
