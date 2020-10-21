@@ -4,7 +4,8 @@ Instructions to Build a Single Channel LoRa Gateway
 
 > All linked Repositorys could be deprecated in the future. So maybe i need to change it later.  
 
-## Hardware
+## What do you need?
+### Hardware
 
 > Raspberry Pi 4 Modell B
 
@@ -17,6 +18,11 @@ Instructions to Build a Single Channel LoRa Gateway
 > 16 GB SD-Card
 
 <img src="https://github.com/darthkali/LoRa_Node_Gateway/blob/main/Assets/Images/SD-Card-16.jpg" alt="alt text" width="100" >
+
+### Software
+
+Raspberry Pi Operation System [link and instruction below]
+Single Channel LoRaWAN Gateway [link and instruction below] [deprecated]
 
 
 
