@@ -100,7 +100,7 @@ nano main.cpp
 - Replace the IP with your chosen Server-IP:
 > the following list is from the 21.10.2020 so maybe this is changed in the meantime. if you Gateway dosn´t work, please check the following site and search for the correct IP: https://www.thethingsnetwork.org/docs/gateways/packet-forwarder/semtech-udp.html
 
-| Region                              | Router address                                                          | IP             |
+| Region                              | Router address                                                          | Server-IP      |
 |-------------------------------------|-------------------------------------------------------------------------|----------------|
 | router.eu.thethings.network         | EU 433 and EU 863-870                                                   | 52.169.76.203  |
 | router.us.thethings.network         | US 902-928                                                              | 13.66.213.36   |
