@@ -147,7 +147,11 @@ float lon = 0;
 
 
 4) Compile the single channel gateway code:
+> get shure, that you are in the same directory like the main.cpp
 
+```bash
+make
+```
 5) run the Gateway
 ```bash
 sudo ./single_chan_pkt_fwd
