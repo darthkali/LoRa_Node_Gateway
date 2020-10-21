@@ -93,6 +93,43 @@ nano main.cpp
 
 3) Change some stuff
 - Find the line:
+
+```bash
+int ssPin = 6;
+int dio0  = 7;
+int RST   = 0;
+```
+
+> Maybe you need to change the Pins from this. In my case the default Pins are working for me.
+
+- Find the line:
+```bash
+uint32_t freq = 868100000; // in Mhz! (868.1) 
+```
+- Replace the Frequency with the Frequency from your LoRa Device:
+> The Frequency depents in which country you life (or the Gateway is working)
+You can find a List on the Following Site:
+https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html
+
+> Remind: The Frequency on this site is shown in MHz and in the code you need to place it in Hz. So multiply the Frequency from the site with 1000000
+
+- Find the line:
+```bash
+//Set location
+float lat = 0;
+float lon = 0;
+```
+> here you need to fill in the location of your Gateway. I prefer to insert this later. When we setup the Gateway on TTN, then you have a map, which gives you the correct data. 
+> remind: You need to replace the *,* to a *.*
+
+- Replace the Frequency with the Frequency from your LoRa Device:
+> The Frequency depents in which country you life (or the Gateway is working)
+You can find a List on the Following Site:
+https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html
+
+> Remind: The Frequency on this site is shown in MHz and in the code you need to place it in Hz. So multiply the Frequency from the site with 1000000
+
+- Find the line:
 ```bash
 #define SERVER1 "54.72.145.119" // The Things Network: croft.thethings.girovito.nl
 ```
@@ -114,16 +151,7 @@ nano main.cpp
 | as923.thethings.meshed.com.au       | Australia (Southeast Asia 923MHz frequency plan)                        | 52.65.94.162   |
 | ttn.opennetworkinfrastructure.org   | Switzerland (EU 433 and EU 863-870)                                     | 86.119.29.227  |
 
-- Find the line:
-```bash
-uint32_t freq = 868100000; // in Mhz! (868.1) 
-```
-- Replace the Frequency with the Frequency from your LoRa Device:
-> The Frequency depents in which country you life (or the Gateway is working)
-You can find a List on the Following Site:
-https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html
 
-> Remind: The Frequency on this site is shown in MHz and in the code you need to place it in Hz. So multiply the Frequency from the site with 1000000
 
 4) Compile the single channel gateway code:
 
