@@ -45,7 +45,49 @@ or use Chocolatey [[Whats this?](https://chocolatey.org/why-chocolatey)]
 
 choco install rpi-imager
 ```
+Setup Raspberry
+Use raspi-config to enable SPI:
 
+
+```bash
+sudo raspi-config
+```
+
+- Select 5 Interfacing Options:
+- Select P2 [SSH] and P4 [SPI]:
+- Select *Yes*
+
+- reboot
+
+```bash
+sudo shutdown -r now
+```
+
+### Setup the Raspberry Pi Software
+
+
+
+1) Login to Raspberry Pi as the Pi user
+2) Clone the repo [in root folder]
+```bash
+git clone https://github.com/tftelkamp/single_chan_pkt_fwd
+```
+3) Install wiringPi:
+
+```bash
+sudo apt-get install wiringpi
+```
+
+4) Configure the single channel gateway code:
+
+```bash
+cd ~/single_chan_pkt_fwd
+```
+
+5) open main.cpp to configurate the LoRa Gateway
+```bash
+nano main.cpp
+```
 ## Usage
 
 
