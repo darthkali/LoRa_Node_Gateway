@@ -8,7 +8,7 @@ I have an Arduino with a LoRa HAD (Dragino) for the Node and a RaspberryPi with 
 Harware Specs:
 Gateway:
 - Raspberry Pi 4 Modell B
-![image](https://images-na.ssl-images-amazon.com/images/I/71IOISwSYZL._AC_SL1400_.jpg | width=100)
+<img src="https://images-na.ssl-images-amazon.com/images/I/71IOISwSYZL._AC_SL1400_.jpg" alt="alt text" width="100" >
 - 16 GB SD-Card
 - Seeed Studio Raspberry Pi LoRa/GPS HAT (868MHz)
 ![image](https://asset.conrad.com/media10/isa/160267/c1/-/de/001997952PI03/seeed-studio-raspberry-pi-lora-gps-hat-lora-gps-shield-passend-fuer-raspberry-pi.jpg?x=1000&y=1000&format=jpg&ex=1000&ey=1000&align=center)
