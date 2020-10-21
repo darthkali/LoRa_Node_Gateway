@@ -125,5 +125,33 @@ https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html
 
 > Remind: The Frequency on this site is shown in MHz and in the code you need to place it in Hz. So multiply the Frequency from the site with 1000000
 
+4) Compile the single channel gateway code:
+
+5) run the Gateway
+```bash
+sudo ./single_chan_pkt_fwd
+```
+> you can Stop the Gateway with Crtl + C
+
+6) Copy the Gateway ID from the Console in your clipboard
+
+## Setup the Gateway at TTN (The Things Network)
+1) Login to your TTN-Profile
+> if you dosnt have a Profile right now, you need create an account:https://account.thethingsnetwork.org/register
+
+2) go to the Console:
+https://console.thethingsnetwork.org/
+
+3) select Gateways
+
+4) select *register gateway*
+5) Insert yout Gateway ID (from Clipboard) in the *Gateway ID* Field
+6) choose: *I'm using the legacy packet forwarder*
+7) choose your Frequency Plan
+> here you need to choose the same Frequency Area which you have put in to the Code
+8) set a location from your Device
+> in the code you have also an area *Set Location* Here you can type the same latutude and longitude as shown in the top right in this map.
+
+
 
 ## Example
