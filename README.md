@@ -1,9 +1,9 @@
 # LoRa_Node_Gateway
 Lora Gateway with Raspberry and a Node with Arduino
 
-In this Repository i will write Down my experience with my first test with the LoRa world.
+In this Repository i will write down my experience from my first test with LoRa.
 
-I have an Arduino with a LoRa HAD (Dragino) for the Node and a RaspberryPi with also a LoRa HAD for the Gateway (Single Channel).
+I have an Arduino with a LoRa HAD (Dragino) for the node and a RaspberryPi with a LoRa HAD for the gateway (Single Channel).
 
 ## Hardware
 
